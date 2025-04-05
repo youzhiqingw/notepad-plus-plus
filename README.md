@@ -1,49 +1,40 @@
-What is Notepad++ ?
-===================
+什么是 Notepad++?  
+===================  
 
-[![GitHub release](https://img.shields.io/github/release/notepad-plus-plus/notepad-plus-plus.svg)](../../releases/latest)&nbsp;&nbsp;&nbsp;&nbsp;[![Build Status](https://img.shields.io/github/actions/workflow/status/notepad-plus-plus/notepad-plus-plus/CI_build.yml)](https://github.com/notepad-plus-plus/notepad-plus-plus/actions/workflows/CI_build.yml)
-&nbsp;&nbsp;&nbsp;&nbsp;[![Join the discussions at https://community.notepad-plus-plus.org/](https://notepad-plus-plus.org/assets/images/NppCommunityBadge.svg)](https://community.notepad-plus-plus.org/)
+[![GitHub 发布](https://img.shields.io/github/release/notepad-plus-plus/notepad-plus-plus.svg)](../../releases/latest)&nbsp;&nbsp;&nbsp;&nbsp;[![构建状态](https://img.shields.io/github/actions/workflow/status/notepad-plus-plus/notepad-plus-plus/CI_build.yml)](https://github.com/notepad-plus-plus/notepad-plus-plus/actions/workflows/CI_build.yml)  
+&nbsp;&nbsp;&nbsp;&nbsp;[![加入讨论](https://notepad-plus-plus.org/assets/images/NppCommunityBadge.svg)](https://community.notepad-plus-plus.org/)  
 
-Notepad++ is a free (free as in both "free speech" and "free beer") source code
-editor and Notepad replacement that supports several programming languages and
-natural languages. Running in the MS Windows environment, its use is governed by
-[GPL License](LICENSE).
+Notepad++ 是一个免费的源代码编辑器和记事本替代工具，支持多种编程语言和自然语言。它在 Windows 操作系统上运行，使用受 [GPL 许可证](LICENSE) 管辖。  
 
-See the [Notepad++ official site](https://notepad-plus-plus.org/) for more information.
+有关更多信息，请访问 [Notepad++ 官方网站](https://notepad-plus-plus.org/)。  
 
-Notepad++ Release Key
----------------------
-_Since the release of version 7.6.5 Notepad++ is signed using GPG with the following key:_
+Notepad++ 发布密钥  
+---------------------  
+_自 7.6.5 版本发布以来，Notepad++ 使用以下密钥进行 GPG 签名：_  
 
-- **Signer:** Notepad++
-- **E-mail:** don.h@free.fr
-- **Key ID:** 0x8D84F46E
-- **Key fingerprint:** 14BC E436 2749 B2B5 1F8C 7122 6C42 9F1D 8D84 F46E
-- **Key type:** RSA 4096/4096
-- **Created:** 2019-03-11
-- **Expires:** 2027-03-13
+- **签名者：** Notepad++  
+- **电子邮件：** don.h@free.fr  
+- **密钥 ID：** 0x8D84F46E  
+- **密钥指纹：** 14BC E436 2749 B2B5 1F8C 7122 6C42 9F1D 8D84 F46E  
+- **密钥类型：** RSA 4096/4096  
+- **创建日期：** 2019-03-11  
+- **过期日期：** 2027-03-13  
 
-https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/nppGpgPub.asc
+[密钥公钥](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/nppGpgPub.asc)  
 
+支持的操作系统  
+------------  
 
-Supported OS
-------------
+所有微软仍支持的 Windows 系统均可支持 Notepad++。但是，并不是所有 Notepad++ 用户都可以或愿意使用最新的系统。您可以查看 [支持的系统信息](SUPPORTED_SYSTEM.md)，如果您是其中之一。  
 
-All the Windows systems still supported by Microsoft are supported by Notepad++. However, not all Notepad++ users can or want to use the newest system. Here is the [Supported systems information](SUPPORTED_SYSTEM.md) you may need in case you are one of them.
+构建 Notepad++  
+---------------  
 
+请按照 [构建指南](BUILD.md) 从源代码构建 Notepad++。  
 
+贡献  
+------------  
 
+欢迎贡献。请关注我们的 [贡献规则](CONTRIBUTING.md)，以提高您贡献被接受的可能性。  
 
-Build Notepad++
----------------
-
-Please follow [build guide](BUILD.md) to build Notepad++ from source.
-
-
-Contribution
-------------
-
-Contributions are welcome. Be mindful of our [Contribution Rules](CONTRIBUTING.md) to increase the likelihood of your contribution getting accepted.
-
-[Notepad++ Contributors](https://github.com/notepad-plus-plus/notepad-plus-plus/graphs/contributors)
-
+[Notepad++ 贡献者](https://github.com/notepad-plus-plus/notepad-plus-plus/graphs/contributors)  
